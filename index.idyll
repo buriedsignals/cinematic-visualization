@@ -1,13 +1,13 @@
 [meta 
-  title:"Yemen article" 
-  description: "Yemen article"
+  title:"Cinematic Visualizations" 
+  description: "Insights from Matt Conlen's paper"
   favicon:"./static/img/favicon.ico"
   shareImageUrl:"./static/img/header-placeholder.png"
   shareImageWidth:"880"
   shareImageHeight:"440"
   twitterHandle: "@buriedsignals" /]
 
-[var name:"articleSlug" value:"tk-article-slug" /]
+[var name:"articleSlug" value:"cinematic-visualisations" /]
 
 [Navigation fullWidth:true /]
 
@@ -17,7 +17,7 @@
   title: "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
   author: "BURIED SIGNALS"
   date: "28.10.2021"
-  category: "INTERACTIVE"
+  category: "Research"
   external_url: ""
 /]
 

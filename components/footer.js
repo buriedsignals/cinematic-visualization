@@ -24,7 +24,7 @@ class Footer extends React.Component {
             <img src="./static/img/bs_footer.svg" />
           </div>
           <div className="footer-copyright">
-          © 2021 Buried Signals. See <a href="/privacy">Privacy and Terms Notice</a>.
+          © 2022 Buried Signals. See <a href="/privacy">Privacy and Terms Notice</a>.
           </div>
         </div>
       );

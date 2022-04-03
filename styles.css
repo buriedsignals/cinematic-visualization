@@ -56,6 +56,11 @@ img {
   box-sizing: border-box;
 }
 
+.idyll-root {
+  padding-bottom: 0 !important;
+  margin-bottom: 0 !important;
+}
+
 .global-wrapper {
   overflow: hidden;
 }
@@ -332,6 +337,7 @@ img {
   .email-input-box:hover {
     background-color: #1c1e1f;
     color: #fff;
+    text-decoration: none;
   }  
 }
 
