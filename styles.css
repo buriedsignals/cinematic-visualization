@@ -332,6 +332,15 @@ img {
   text-decoration: none;
   transition: background-color 0.2s;
 }
+.youtube-embed {
+  width: 100%;
+  text-align: center;
+  margin: 50px 0px 50px 0px;
+}
+.youtube-embed iframe {
+  height: 250px;
+  width: 500px;
+}
 
 @media (hover: hover) {
   .email-input-box:hover {
@@ -419,7 +428,7 @@ img {
 
 /* MOBILE TYPOGRAPHY */
 .idyll-text-container p, .idyll-text-container ul {
-  margin: 50px 0;
+  margin: 20px 0px 20px 0px;
 }
 
 .idyll-text-container p, .idyll-text-container li, .idyll-text-container a {
@@ -467,6 +476,10 @@ img {
 }
 
 /* BUTTONS */
+
+.is-button {
+  text-decoration: none !important;
+}
 
 .button-container {
   width: 100%;
