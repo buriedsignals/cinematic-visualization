@@ -14,7 +14,7 @@ class Navigation extends React.Component {
           <div className="navbar">
             <a href="/" className="navbar_logo">
                 <img
-                  src="../static/img/bs-logo.svg"
+                  src="./static/img/bs-logo.svg"
                 />
             </a>
             <div className="navbar_links">
