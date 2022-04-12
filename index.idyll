@@ -21,11 +21,11 @@
   external_url: ""
 /]
 
+The following article extracts information from an academic paper by an anonymous researcher. Through an analysis of 50 existing visualizations, **the researcher identified four salient techniques (in-situ narrators, resolution of scale, anthropocentric perspective, and author-defined camera paths)** often used to dramatically increase audience engagement through emotionally resonant data-stories.
+
 Narrative visualizations are used to improve memorability, to instil empathy or emotion, to frame a message and to improve engagement. 
 
 Cinematic visualisation is an emergent subgenre of narrative visualizations that embed data into a three-dimensional, time varying scene, utilizing one or more cameras to direct the relationship between a viewer and the scene to tell a dramatic data-driven story. Similar to movie makers, creators of cinematic visualizations may use the technique of storyboarding to prototype and communicate their scenes in a lo-fidelity form before endeavouring on the time intensive task of 3D modeling and rendering.
-
-Through an analysis of 50 existing visualizations, **the researcher identified four salient techniques (in-situ narrators, resolution of scale, anthropocentric perspective, and author-defined camera paths)** often used to dramatically increase audience engagement through emotionally resonant data-stories.
 
 ##In-situ narration
 In-situ is the ability to see things in situation and interact with them. The frame contains a character that interacts directly with on-screen data, allowing the on-screen narrator to mediate interactions between the audience and the graphics and letting them provide additional context.
